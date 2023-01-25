@@ -1,0 +1,10 @@
+- Orientada a objetos;
+- Linguagem de alto nível;
+- Garbage collection, possui gerenciamento de mémoria;
+- Linguagem interpretada, código fonte  é executado pelo interpretador e logo em seguida é executado pelo SO;
+- Tipagem forte, os dados não assumem outro tipo que foi anteriormente definido para eles;
+- Apropriada para iniciantes e extremamente poderosa;
+- Multiplataforma;
+- Utilizadação em Web-apps - Apache web server;
+- Tipagem dinâmica - habilidade de escolher o tipo de dado de acordo com o valor atribuído à variável dinamicamente quando em execução.
+- e também é encontrada em scripts dentro de outros apps.
